@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Google Chrome",
+    "command": "google-chrome-stable",
+    "icon": "google-chrome"
+  },
+  {
+    "name": "gnome-disks"
+  }
+]
