@@ -1,6 +1,6 @@
 # rofi-json
 
-Simple [rofi](https://github.com/davatorium/rofi) external script that reads a json file and display the items as menu entries.
+Simple shell script that reads a json file and display the items as [rofi](https://github.com/davatorium/rofi) menu entries.
 
 Supports icon.
 
