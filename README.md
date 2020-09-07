@@ -12,7 +12,7 @@ Supports icon.
 
 1. Make sure you have [jq](https://stedolan.github.io/jq/) (Command-line JSON processor) utility installed ([arch](https://www.archlinux.org/packages/community/x86_64/jq/) package).
 
-2. Copy `rofi-json.sh` from this repo (or git clone and link) to your rofi's configuration folder (i.e. `~/.config/rofi`).
+2. Copy `rofi-json.sh` from this repo (or git clone and link) to your rofi's configuration folder (i.e. `~/.config/rofi`) and make it executable (`chmod +x rofi-json.sh`).
 
 3. Create your JSON file (you can check examples folder).
 
