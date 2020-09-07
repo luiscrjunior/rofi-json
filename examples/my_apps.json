@@ -5,6 +5,11 @@
     "icon": "google-chrome"
   },
   {
+    "name": "Terminal",
+    "command": "urxvt",
+    "icon": "terminal"
+  },
+  {
     "name": "gnome-disks"
   }
 ]

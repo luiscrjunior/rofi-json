@@ -1,6 +1,6 @@
 # rofi-json
 
-Simple [rofi](https://github.com/davatorium/rofi) external script that reads a json file and display as menu entries.
+Simple [rofi](https://github.com/davatorium/rofi) external script that reads a json file and display the items as menu entries.
 
 Supports icon.
 
@@ -18,7 +18,7 @@ Supports icon.
 rofi -modi "My Apps":"~/.config/rofi/rofi-json.sh my_apps.json" -show "My Apps"
 ```
 
-**<PATH_OF_SCRIPT>**: you can specify an absolute path (or ~), or just leave the script name if it is located in the same directory as the `rofi-json.sh` file.
+`<JSON_FILE>`: you can specify an absolute path (or ~), or just leave the json file name if it is located in the same directory as the `rofi-json.sh` file.
 
 # JSON Example
 
