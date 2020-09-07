@@ -4,6 +4,10 @@ Simple [rofi](https://github.com/davatorium/rofi) external script that reads a j
 
 Supports icon.
 
+![Screen1](examples/screen2.png)
+
+![Screen1](examples/screen1.png)
+
 ## Usage
 
 1. Make sure you have [jq](https://stedolan.github.io/jq/) (Command-line JSON processor) utility installed ([arch](https://www.archlinux.org/packages/community/x86_64/jq/) package).
